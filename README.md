@@ -1,7 +1,7 @@
 # Pair_selection
 This repository contains Python code used to select and classify galaxy pairs from volume-limited samples. The script selects the **best companion** for each galaxy based on projected separation and velocity difference, and saves outputs into categorised FITS tables. Note that each galaxy is only paired once.
 
-## 🚀 Working of the code
+## Working of the code
 
 For each galaxy in the input dataset:
 
