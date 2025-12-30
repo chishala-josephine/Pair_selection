@@ -11,3 +11,7 @@ For each galaxy in the input dataset:
 4. Calculates **velocity difference** (dv in km/s) using z1 and z2
 5. Categorises galaxy pairs into six projected separation bins and two velocity differences
 Only the **closest valid companion** (minimum rp, then dv) is stored for each galaxy.
+# Contact
+For inquiries or research use, contact:
+Josephine Chishala
+josephinechishala2@gmail.com
