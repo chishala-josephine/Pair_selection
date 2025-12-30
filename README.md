@@ -12,6 +12,6 @@ For each galaxy in the input dataset:
 5. Categorises galaxy pairs into six projected separation bins and two velocity differences
 Only the **closest valid companion** (minimum rp, then dv) is stored for each galaxy.
 # Contact
-For inquiries or research use, contact:
+For inquiries, contact:
 Josephine Chishala
 josephinechishala2@gmail.com
